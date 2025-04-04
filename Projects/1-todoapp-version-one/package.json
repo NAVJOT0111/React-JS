@@ -1,9 +1,10 @@
 {
-  "name": "learning-bootstrap",
+  "name": "1-todoapp-version-one",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
