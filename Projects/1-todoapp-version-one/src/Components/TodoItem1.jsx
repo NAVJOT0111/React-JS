@@ -1,5 +1,6 @@
 function TodoItem1(){
-    let todoName = "Buy Milk";
+
+    let todoName = "Buy Milk";    // to add and use dynamic components
     let todoDate = "4/10/2023";
 
     return (
