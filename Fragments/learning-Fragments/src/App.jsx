@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
 
-  let foodItems = ["Fruits",'Milk','Green VEgetable','Sabji','Roti'];
+  let foodItems = ["Fruits",'Milk','Green Vegetable','Sabji','Roti'];
   // let foodItems = [];
 
   // if(foodItems.length === 0){
